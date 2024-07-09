@@ -5,5 +5,5 @@ Key Steps:
 
   1. Data cleaning and preprocessing
   2. Exploratory data analysis (EDA)
-  3. Clustering algorithms (e.g., K-means)
+  3. Clustering algorithms (K-means)
   4. Visualization of customer segments
